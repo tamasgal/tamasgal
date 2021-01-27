@@ -4,7 +4,7 @@ My name is Tamas Gal, I am an astroparticle physicist and work on the KM3NeT neu
 
 ![tamasgal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasgal&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasgal&langs_count=10)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasgal&langs_count=10)
 
 <!--
 **tamasgal/tamasgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
