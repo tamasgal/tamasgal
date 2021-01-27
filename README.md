@@ -1,4 +1,10 @@
-### Hi there 👋
+### Servus 👋
+
+My name is Tamas Gal, I am an astroparticle physicist and work on the KM3NeT neutrino telescope at the Erlangen Centre for Astroparticle Physics. I enjoy physics, coding in different languages (Julia being my favourite for science), DevOps, network and system administration of distributed systems, grid (HPC and HTC) computing, and electronics in general. Other than that, I am a passionate motorcyclist since my early ages and love adventure and off-road riding and also climbing and bouldering.
+
+![tamasgal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasgal&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasgal&langs_count=10)]
 
 <!--
 **tamasgal/tamasgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
