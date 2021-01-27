@@ -12,8 +12,8 @@ My name is Tamas Gal, I am an astroparticle physicist and work on the KM3NeT neu
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4a8cc2)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=4a8cc2)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=4a8cc2)
-![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=emacs&logoColor=white&color=4a8cc2)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=4a8cc2)
+![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=4a8cc2)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=4a8cc2)
 
 <!--
 **tamasgal/tamasgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
