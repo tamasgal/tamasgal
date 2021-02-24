@@ -2,9 +2,7 @@
 
 My name is Tamas Gal, I am an astroparticle physicist and work on the KM3NeT neutrino telescope at the Erlangen Centre for Astroparticle Physics. I enjoy physics, coding in different languages (Julia being my favourite for science), DevOps, network and system administration of distributed systems, grid (HPC and HTC) computing, and electronics in general. Other than that, I am a passionate motorcyclist since my early ages and love adventure and off-road riding and also climbing and bouldering.
 
-[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0001-7821-8673) ![Profile views in 2021](https://gpvc.arturio.dev/tamasgal)
-
-[![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1844720)
+[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0001-7821-8673) ![Profile views in 2021](https://gpvc.arturio.dev/tamasgal) [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1844720)
 
 ![tamasgal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasgal&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasgal&langs_count=12&layout=compact&exclude_repo=rba)
 
